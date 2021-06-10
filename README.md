@@ -1,0 +1,3 @@
+# Template
+
+> This is where the fun begin...

@@ -1,0 +1,10 @@
+{
+  "env": {
+    "node": false,
+    "browser": true,
+    "commonjs": true
+  },
+  "parserOptions": {
+    "sourceType": "module"
+  }
+}

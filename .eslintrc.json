@@ -1,0 +1,10 @@
+{
+  "extends": ["eslint:recommended", "airbnb"],
+  "env": {
+    "node": true,
+    "es2017": true
+  },
+  "parserOptions": {
+    "sourceType": "module"
+  }
+}
